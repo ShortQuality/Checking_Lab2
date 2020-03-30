@@ -1,0 +1,7 @@
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\obj\Debug\Checking_Lab2.csprojAssemblyReference.cache
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\obj\Debug\Checking_Lab2.csproj.CoreCompileInputs.cache
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\bin\Debug\Checking_Lab2.exe.config
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\bin\Debug\Checking_Lab2.exe
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\bin\Debug\Checking_Lab2.pdb
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\obj\Debug\Checking_Lab2.exe
+D:\Программирование\С#\EPAM\Labs\Checking_Lab2\Checking_Lab2\obj\Debug\Checking_Lab2.pdb
